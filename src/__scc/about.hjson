@@ -1,0 +1,10 @@
+{
+    "Description": '''
+StakeCubeCoin masternode'''
+    Links: [
+        { 
+            website: "https://stakecube.net/scc",
+            explorer: "https://scc.ccore.online/"
+        }
+    ]
+}
