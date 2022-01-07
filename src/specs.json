@@ -1,6 +1,6 @@
 {
     "id": "posmn.scc.node" ,
-    "version" : "0.0.5+3.1.0.0",
+    "version" : "0.0.6+3.1.0.0",
     "dependencies": [
         { "id":"btc.base" }
     ]
