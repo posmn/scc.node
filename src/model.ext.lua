@@ -9,7 +9,7 @@ am.app.set_model(
         DAEMON_URL = "https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/scc-3.1.0-linux-daemon.zip",
         DAEMON_NAME = "sccd",
         CLI_NAME = "scc-cli",
-        CONF_NAME = "scc.conf",
+        CONF_NAME = "stakecubecoin.conf",
         CONF_SOURCE = "__btc/assets/daemon.conf",
         SERVICE_NAME = "sccd",
     },
