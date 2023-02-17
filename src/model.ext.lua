@@ -6,7 +6,7 @@ am.app.set_model(
             masternodeprivkey = am.app.get_configuration("NODE_PRIVKEY"),
             masternode = am.app.get_configuration("NODE_PRIVKEY") and 1 or nil
         },
-        DAEMON_URL = "https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/scc-3.1.0-linux-daemon.zip",
+        DAEMON_URL = "https://github.com/stakecube/StakeCubeCoin/releases/download/v3.3.1/scc-3.3.1-x86_64-linux-gnu.zip",
         DAEMON_NAME = "sccd",
         CLI_NAME = "scc-cli",
         CONF_NAME = "stakecubecoin.conf",
